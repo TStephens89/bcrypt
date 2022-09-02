@@ -24,4 +24,4 @@ The following guides illustrate how to use some features concretely:
 These additional references should also help you:
 
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
-
+// I had to follow the demo code very closely to get the site to function how I anticipated.
